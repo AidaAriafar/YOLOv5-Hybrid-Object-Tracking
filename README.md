@@ -50,13 +50,11 @@ This can be especially helpful for understanding the project’s signals and sys
    
 ## Sample Outputs
 
-###  Multi-Object Tracking in High Speed
-![Multi-object tracking in high speed](sample%20images/multi%20object%20tracking%20in%20high%20speed.png)
 
-###  Single-Object Tracking
+###  Single-Object Tracking 
 ![Single-object tracking](sample%20images/single%20object%20tracking.png)
 
-###  Multi-Object Tracking
+###  Multi-Object Tracking with custom-built kalman filter tracker
 ![Multi-object tracking](sample%20images/multi%20object%20tracking.png)
 
   ---
