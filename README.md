@@ -45,3 +45,9 @@ So just simply open the SignalsSystemsProject.ipynb on google colab and start ru
 ## Report
 A detailed report is also available, providing clear explanations of the system architecture, fusion methodology, implementation choices, and results. It includes insights into how each tracking algorithm performs under different scenarios, along with visual comparisons and analysis.
 This can be especially helpful for understanding the project’s signals and systems relevance and practical applications.
+
+   ---
+## Contributors
+* Aida Ariafar
+* Kiarash Hamidieh
+* Amirali Entezam
