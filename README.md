@@ -56,6 +56,8 @@ This can be especially helpful for understanding the project’s signals and sys
 
 ###  Multi-Object Tracking with custom-built kalman filter tracker
 ![Multi-object tracking](sample%20images/multi%20object%20tracking.png)
+![Multi-object custom tracking](sample%20images/multi%20custom%20tracked%20video%20(8).gif)
+
 
   ---
    
