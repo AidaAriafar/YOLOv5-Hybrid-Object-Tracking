@@ -1,4 +1,6 @@
-# Signals and Systems Project: Object Detection and Tracking (YOLO + CSRT/KCF/MOSSE/custom-built Kalman Filter-based tracker)
+# Signals and Systems Project-Group 23
+# Object Detection and Tracking (YOLO + CSRT/KCF/MOSSE/custom-built Kalman Filter-based tracker)
+
 
 This project delivers an advanced object detection and tracking pipeline designed for robust performance across various video scenarios. It seamlessly integrates the powerful YOLOv5 deep learning model for object detection with both established traditional tracking algorithms (CSRT, KCF, MOSSE) and a custom-built Kalman Filter-based tracker. This fusion approach aims to leverage the strengths of both detection (accurate localization) and tracking (smooth trajectories, handling occlusions) for enhanced video analysis.
 
