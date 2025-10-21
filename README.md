@@ -66,5 +66,4 @@ This can be especially helpful for understanding the project’s signals and sys
 ## Contributors
 * Aida Ariafar: https://github.com/AidaAriafar
 * Kiarash Hamidieh: https://github.com/kiahmdh
-* Amirali Entezam
   
