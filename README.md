@@ -1,4 +1,3 @@
-# Signals and Systems Project-Group 23
 # Object Detection and Tracking (YOLO + CSRT/KCF/MOSSE/custom-built Kalman Filter-based tracker)
 
 
